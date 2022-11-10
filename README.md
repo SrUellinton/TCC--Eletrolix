@@ -7,7 +7,7 @@
 
 <hr>
 Este projeto se dá como meu trabalho de conclusão para o curso de Analise e Desenvolvimento de Sistemas do Instituto Federal Farroupilha - Campus São Vicente do Sul.
-Aplicação web/mobile para auxiliar a coleta na coleta de lixo eletrônico do município de São Francisco de Assis - RS
+Aplicação web/mobile para auxiliar a coleta de lixo eletrônico do município de São Francisco de Assis - RS
 
 <br>
 
